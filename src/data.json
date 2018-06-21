@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "../build/images/android.jpg",
+    "image": "/images/android.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "../build/images/baltazar.jpg",
+    "image": "/images/baltazar.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "../build/images/berserker.jpg",
+    "image": "/images/berserker.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "../build/images/gnaeus.jpg",
+    "image": "/images/gnaeus.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "../build/images/raider.jpg",
+    "image": "/images/raider.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "../build/images/ratfolk.jpg",
+    "image": "/images/ratfolk.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "../build/images/sajan.jpg",
+    "image": "/images/sajan.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "../build/images/shoanti.jpg",
+    "image": "/images/shoanti.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "../build/images/skeletal.jpg",
+    "image": "/images/skeletal.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "../build/images/trader.jpg",
+    "image": "/images/trader.jpg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "../build/images/valeros.jpg",
+    "image": "/images/valeros.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "../build/images/warrior.jpg",
+    "image": "/images/warrior.jpg",
     "clicked": false
   }
 ]
